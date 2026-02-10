@@ -1,0 +1,198 @@
+body{
+    background:linear-gradient(to top,rgba(8, 8, 8, 0.212),rgba(0, 0, 0, 0.281));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    margin:0px;
+    
+    
+    
+}
+/*
+#TCs{*/
+   
+   /* background-color: rgba(7, 7, 233, 0.959);
+    color:#000000;
+    margin: 0px;
+    padding:10px;
+    position:fixed;
+    top: 0;
+    left:0;
+    width: 100%;
+    */
+  
+
+    /* justify-content makes the element within a bx to shift horizontal.*/
+
+    /* align-item makes the element to shift vertically in a box*/
+
+    /* display flex allow the elements to be flexible in a way that they can shift horizontal and vertical */
+   
+ /*  display: flex;
+   justify-content: flex-end;
+   padding:20px;
+   padding-top: 30px;
+   height: 30px;
+   font-size: 16px;
+   background-color: rgba(0, 0, 0, 0.404);
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+   box-shadow: 60px 0px 0px rgb(255, 255, 255) ;
+     
+}
+*/
+#txt{
+    color: black;
+   
+}
+#TCs:hover{
+    
+    color:rgb(5, 234, 250);
+
+}
+#kababa{
+    margin-left: 70px ;
+    font-size: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    color: white;
+    text-shadow: 10px 10px 30px rgb(255, 255, 255) , -10px -10px 30px rgb(255, 255, 255);
+
+}
+/*#ac{
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 14px;
+    text-shadow: 10px 10px 30px yellow , -10px -10px 30px red;
+   
+}*/
+#lk{
+   
+   font-size: 30px;
+   position:absolute;
+   top:440px;
+   left:530px;
+   color:white;
+   
+  
+}
+#lk:hover{
+    color:rgba(0, 0, 0, 0.329);
+}
+#d{
+   background:linear-gradient(to top , rgba(34, 34, 34, 0.568),rgba(212, 211, 211, 0.205));
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   position:relative;
+   left: 430px ;
+   top: 40px;
+   width:400px;
+   height:400px;
+   border-radius: 1000px;
+   box-shadow: 17px 10px 80px rgb(255, 255, 255) ,-19px 28px 80px white;
+   position:relative;
+   
+   
+}
+#sd{
+    position:absolute;
+    top:70px;
+    left:210px;
+    transform: rotateX(95deg);
+}
+#mfk{
+    position:absolute;
+    top:120px;
+    left:50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:90px;
+    text-shadow: 14px 0px 40px rgb(247, 247, 247) , 14px 5px 50px rgb(245, 245, 245) ;
+}
+#rd{
+    position:absolute;
+    top:80px;
+    left:590px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:90px;
+    text-shadow: 14px 0px 40px rgb(247, 247, 247) , 14px 5px 50px rgb(245, 245, 245) ;
+
+}
+#th{
+    position:absolute;
+    top:120px;
+    left:850px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:90px;
+    text-shadow: 14px 0px 40px rgb(247, 247, 247) , 14px 5px 50px rgb(245, 245, 245) ;
+}
+#fth{
+    position:absolute;
+    top:450px;
+    left:460px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:80px;
+    text-shadow: 14px 0px 40px rgb(247, 247, 247) , 14px 5px 50px rgb(245, 245, 245) ;
+}   
+#fw{
+    display: flex;
+    margin-top: 180px;
+    padding:14px;
+    color: blue;
+    background-color: burlywood;
+    height: 20px;
+    padding-top: 30px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+#w{
+    margin-left:30px ;
+}
+#w:hover{
+    color:green;
+}
+#f:hover{
+    color:green;
+}
+#h{
+    background-color: black;
+    color: black;
+}
+
+
+
+
+/*width:1000px;
+   height:400px;*/
+
+/*margin-left: 340px ;
+    font-size: 60px;*/
+
+
+
+/*  
+ margin-left: 390px ;
+.WTMA{
+    margin-left: 250px;
+    font-size: 70px;
+}
+#kababa{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#ac{
+    margin-left:250px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#bb{
+    font-size: 30px;
+    margin-left: 300px;
+    border-radius: 12px;
+}
+#bt{
+  
+}
+
+*/

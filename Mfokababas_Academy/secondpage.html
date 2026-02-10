@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width , initial-scale=1.0">
+        <title>Mfokababas Registration</title>
+        <link rel="stylesheet" href="secondpage.css">
+    </head>
+    <body>
+        <h1 id="ar">ACADEMIC REGISTRATION</h1>
+        <form action="login.html" method="get">
+            <div>
+               <label id="n" for="names">Names:</label>
+               <input type="text" id="names" name="names" minlength="5" maxlength="30" pattern="[A-Za-z ]+" placeholder="Samkelo Mfokababa" required>
+            </div>
+            <br>
+            <div>
+               <label id="s" for="surname">Surname:</label>
+               <input type="text" id="surname" name="surname" minlength="5" maxlength="30" pattern="[A-Za-z]+" placeholder="Sindane" required>
+            </div>
+            <br>
+            <div>
+                <label id="p" for="phone">Whatsapp Contacts :</label>
+                <input type="tel" id="phone" name="phone"  placeholder="0723456789" minlength="10" maxlength="10"   required>
+            </div>
+            <br>
+            <div>
+               <label id="ncs" for="Sname">Name of Current School:</label>
+               <input type="text" id="Sname" name="Sname" minlength="5" maxlength="60" placeholder="Sobantu senior secondary school" required>
+            </div>
+            <br>
+            <div>
+               <label id="g" for="grade">Grade:</label>
+               <br>
+               <br>
+               <label for="Grade10">Grade 10:</label>
+               <input type="radio" id="Grade10" name="Grade" required>
+               <label for="Grade11">Grade 11:</label>
+               <input type="radio" id="Grade11" name="Grade" required>
+               <label for="Grade12">Grade 12:</label>
+               <input type="radio" id="Grade12" name="Grade" required>
+            </div>
+            <br>
+            <div>
+               <label id="nsub" for="Nsubjcets">Number of Subjects:</label>
+               <input type="number" id="Nsubjects" name="Nsubjects" min="1" max="2" value="1" required>
+            </div>
+            <br>
+            <div>
+               <label id="ss" for="subject">Select Subjects:</label>
+            </div>
+            <br>
+            <div>
+               <label id="mt" for="Mathematics">Mathematics</label>
+               <input type="checkbox"subject" name="subject"  >
+            
+            <br>
+            <br>
+            
+               <label id="py" for="Physical Science">Physical Science</label>
+               <input type="checkbox" id="subject" name="subject" >
+            </div>
+            <br>
+            <div>
+                <label id="docu" for="Documents">Documents:</label>
+                <br>
+                <table bgcolor="black" width="700">
+                    <tr bgcolor="grey">
+                        <th> <b>Report Type</b> </th>
+                        <th> <b>File Report</b> </th>
+                    </tr>
+                    <tr bgcolor="lightgrey">
+                        <td>
+                           <label for="Preport">Previous Grade Report :</label>
+                        </td>
+                        <td>
+                            <input type="file" accept=".pdf" required>
+                        </td>
+                    </tr>
+                    <tr bgcolor="lightgrey">
+                        <td>
+                            <label for="Creport">Current Grade Report :</label>
+                        </td>
+                        <td>
+                            <input type="file" accept=".pdf" required>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <br>
+            <div>
+                <input type="reset" id="reset" value="Reset Form">
+
+                <input type="submit" id="submit" value="Submit Form" >
+                <hr>
+            </div>   
+        </form>
+        <form action="index2.html" method="get">
+               <div id="bb">
+                     <a href="index2.html">
+                          <button id="bt">Back</button>
+                      </a>
+                 </div>
+                 <!--<label for="back"></label>
+                 <input id="bb" type="submit" value="back">-->
+        </form>
+    </body>
+</html>
+ 

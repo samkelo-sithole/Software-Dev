@@ -1,0 +1,95 @@
+body{
+    background-color: aliceblue;
+    margin-left: 12px;
+}
+#ar{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    margin-top:0px;
+}
+#names{
+    width:300px;
+    border-style: dotted;
+    border-color: grey;
+    border-width: 1px;
+    margin-left: 20px;
+}
+#n{
+    font-size: 20px;
+}
+#surname{
+    border-style: dotted;
+    border-color: grey;
+    width:302px;
+    border-width: 1px;
+    margin-left: 10px;
+}
+#s{
+    font-size: 20px;
+}
+#phone{
+    border-style: dotted;
+    border-style: dotted;
+    border-color: grey;
+    width:235px;
+    border-width: 1px;
+    margin-left: 10px;
+}
+#p{
+    font-size: 20px;
+}
+#Sname{
+    border-style: dotted;
+    border-style: dotted;
+    border-color: grey;
+    width:300px;
+    border-width: 1px;
+    margin-left: 10px;
+}
+#ncs{
+    font-size: 20px;
+}
+#g{
+   font-size: 20px; 
+}
+#nsub{
+   font-size: 20px;
+}
+#ss{
+   font-size: 20px;
+}
+#mt{
+   font-size: 20px;
+}
+#py{
+   font-size: 20px;
+}
+#docu{
+   font-size: 20px;
+}
+#reset{
+    margin-top: 30px;
+    padding:3px ;
+    background-color: darkgrey;
+}
+#submit{
+    margin-left: 20px;
+    padding:3px;
+    background-color: darkgrey;
+}
+#bt{
+    margin-left: 20px;
+    padding:3px;
+    background-color: darkgrey;
+    width: 70px;
+    position: relative;
+
+}
+#bb{
+    display: flex;
+    justify-content: flex-end;
+    
+    
+    
+}
